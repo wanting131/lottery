@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MysticScratch - 算命師刮刮樂概率分析儀",
+  "description": "融合神祕學與大數據的刮刮樂中獎概率計算工具，幫助您在投注前洞察先機。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
